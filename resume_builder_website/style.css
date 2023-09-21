@@ -1,0 +1,18 @@
+#resumeForm{
+    /* display: none; */
+}
+#resumeTemplate{
+    display: none;
+}
+.my-image{
+    border: 1px solid blue;
+    border-radius: 100%;
+    width: 100px;
+}
+.background{
+    background-color: #002fff;
+}
+.btn{
+    background-color: #002fff;
+    color: white;
+}
